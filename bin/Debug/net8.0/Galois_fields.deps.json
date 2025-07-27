@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Galois_fields/1.0.0": {
+        "runtime": {
+          "Galois_fields.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Galois_fields/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

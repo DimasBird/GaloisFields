@@ -1,0 +1,15 @@
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\bin\Debug\net8.0\Galois_fields.exe
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\bin\Debug\net8.0\Galois_fields.deps.json
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\bin\Debug\net8.0\Galois_fields.runtimeconfig.json
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\bin\Debug\net8.0\Galois_fields.dll
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\bin\Debug\net8.0\Galois_fields.pdb
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.AssemblyInfoInputs.cache
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.AssemblyInfo.cs
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.csproj.CoreCompileInputs.cache
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.dll
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\refint\Galois_fields.dll
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.pdb
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.genruntimeconfig.cache
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\ref\Galois_fields.dll
+C:\Users\DimasBird\Desktop\учёба\КМЗИ\1)Практическая работа 1\Galois_fields\obj\Debug\net8.0\Galois_fields.csproj.ResolveComReference.cache
